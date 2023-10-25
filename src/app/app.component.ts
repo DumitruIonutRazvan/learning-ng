@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { InputListComponent } from './input-list/input-list.component';
+import { TestListComponent } from './test-list/test-list.component';
 
 @Component({
   
